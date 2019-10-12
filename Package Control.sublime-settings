@@ -15,10 +15,16 @@
 		"Git",
 		"GitGutter",
 		"Material Theme",
+		"Monokai++",
 		"Package Control",
 		"SCSS",
 		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"Solarized Toggle",
 		"SublimeLinter",
-		"SublimeLinter-rubocop"
+		"SublimeLinter-eslint",
+		"SublimeLinter-rubocop",
+		"Theme - Solarized Flat",
+		"Theme - Solarized Space"
 	]
 }
