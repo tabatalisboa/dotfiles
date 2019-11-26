@@ -52,3 +52,4 @@ autoload -Uz compinit && compinit
 # Load zsh-syntax-highlighting; should be last.
 source /home/eyluor/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
